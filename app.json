@@ -1,0 +1,33 @@
+{
+  "id": "c17e02a9-9724-4fdd-bcce-fe0ad02a57f8",
+  "name": "Academy Development 051222",
+  "publisher": "Academy Course 051222",
+  "version": "21.0.0.0",
+  "brief": "Academy Development 051222",
+  "description": "Academy Development 051222 Week December 5-9 ",
+  "privacyStatement": "",
+  "EULA": "https://ba-consult.dk/downloads/Warrenty.txt",
+  "help": "",
+  "url": "",
+  "logo": "./Images/Logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
