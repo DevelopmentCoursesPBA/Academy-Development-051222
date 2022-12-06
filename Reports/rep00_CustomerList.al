@@ -55,7 +55,7 @@ report 50100 "CSD Customer List"
         layout(Simple)
         {
             Type = RDLC;
-            LayoutFile = './Layouts/CustomerList.rdl';
+            LayoutFile = './Layouts/CustomerList3.rdl';
         }
     }
     
